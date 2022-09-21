@@ -45,7 +45,6 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 | UofT Claremont | U of Toronto, R. Gerber, PhD 1999 | Oct, 1994 | Till Plain |
 | Port Perry 4th Line | Genivar for Durham Region |   | Tunnel Channel |
 
-----
 <br>
 
 ![](fig/20140320-fig-camc-ypdt-mon-locations.webp)
