@@ -27,6 +27,7 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 <br>
 
 **Table 1:** ORMGP Groundwater Monitoring Locations.
+
 | YPDT-CAMC Site | Installed By | Install Date | Hydrogeologic Setting |
 | ---- | ---- | ---- | ---- |
 | Boston Mills Road | ORMGP | Sept, 2006 | Bedrock Valley |
@@ -43,6 +44,7 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 | MOE Claremont | Ontario MOE (U. Sibul) | April, 1972 | Till Plain |
 | UofT Claremont | U of Toronto, R. Gerber, PhD 1999 | Oct, 1994 | Till Plain |
 | Port Perry 4th Line | Genivar for Durham Region |   | Tunnel Channel |
+
 ----
 <br>
 
