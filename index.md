@@ -51,6 +51,6 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 **Figure 2:** ORMGP, PGMN, and Municipal groundwater monitoring locations.
 
 ## Further information on individual monitoring sites is available below:
-* [Boston Mills](https://www.oakridgeswater.ca/boston)
-* [High Park](https://www.oakridgeswater.ca/highpark)
-* [IWA EE-11-1](https://www.oakridgeswater.ca/iwa-ee-11-1)
+* [Boston Mills](https://owrc.github.io/Boston-Mills/)
+* [High Park](https://owrc.github.io/highpark/)
+* [IWA EE-11-1](https://owrc.github.io/ee-11-1/)
