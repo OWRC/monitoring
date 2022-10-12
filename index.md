@@ -52,5 +52,5 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 
 ## Further information on individual monitoring sites is available below:
 * [Boston Mills](https://owrc.github.io/Boston-Mills/)
-* [High Park](https://owrc.github.io/highpark/)
+* [High Park](https://owrc.github.io/HighPark/)
 * [IWA EE-11-1](https://owrc.github.io/ee-11-1/)
