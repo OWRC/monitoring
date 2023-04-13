@@ -47,12 +47,12 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 
 <br>
 
-![](fig/20140320-fig-camc-ypdt-mon-locations.webp)
+![](images/20140324-fig-camc-all-mon-locations.webp)
 **Figure 2:** ORMGP, PGMN, and Municipal groundwater monitoring locations.
 
 <br>
 
 ## Further information on individual monitoring sites is available below:
-* [Boston Mills](Boston-Mills)
+* [Boston Mills](Boston-Mills/)
 * [High Park](HighPark/)
-* [IWA EE-11-1](/ee-11-1/)
+* [IWA EE-11-1](ee-11-1/)
