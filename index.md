@@ -10,10 +10,10 @@ Groundwater information is collected on an on-going basis at various locations w
 
 This information includes groundwater levels, groundwater temperature and chemical analyses.  Within the study area there are three main groundwater monitoring networks:
 1. ORMGP monitoring network;
-2. Provincial Groundwater Monitoring Network (PGMN) operated by the Ontario Ministry of the Environment and partner             Conservation Authorities; and
+2. Provincial Groundwater Monitoring Network (PGMN) operated by the Ontario Ministry of the Environment and partner Conservation Authorities; and
 3. Monitoring by municipalities (York, Peel, Durham) associated with water supply from groundwater sources.
 
-![](fig/20140320-fig-camc-ypdt-mon-locations.webp)
+![](images/20140320-fig-camc-ypdt-mon-locations.webp)
 **Figure 1:** ORMGP Groundwater Monitoring Locations.
 
 The ORMGP groundwater monitoring network collects information from select locations shown on Figure 1 and listed in Table 1.  Some of the monitoring facilities were installed by program staff and some locations were inherited from other programs as indicated in the table.  The flow system occurring with the study area is interpreted to contain various "hydrogeologic settings" including: 
@@ -50,7 +50,9 @@ The data collected from the various monitoring locations (Figure 2) are used to 
 ![](fig/20140320-fig-camc-ypdt-mon-locations.webp)
 **Figure 2:** ORMGP, PGMN, and Municipal groundwater monitoring locations.
 
+<br>
+
 ## Further information on individual monitoring sites is available below:
-* [Boston Mills](https://owrc.github.io/Boston-Mills/)
-* [High Park](https://owrc.github.io/HighPark/)
-* [IWA EE-11-1](https://owrc.github.io/ee-11-1/)
+* [Boston Mills](Boston-Mills)
+* [High Park](HighPark/)
+* [IWA EE-11-1](/ee-11-1/)
