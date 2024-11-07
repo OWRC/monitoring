@@ -8,7 +8,7 @@ output: html_document
 
 Groundwater information is collected on an on-going basis at various locations within the program study area. 
 
-This information includes groundwater levels, groundwater temperature and chemical analyses.  Within the study area there are three main groundwater monitoring networks:
+This information includes groundwater levels, groundwater temperature and chemical analyses. Pumping volumes are also measured and recorded at the municipal pumping wells. Within the study area there are three main groundwater monitoring networks:
 1. ORMGP monitoring network;
 2. Provincial Groundwater Monitoring Network (PGMN) operated by the Ontario Ministry of the Environment and partner Conservation Authorities; and
 3. Monitoring by municipalities (York, Peel, Durham) associated with water supply from groundwater sources.
