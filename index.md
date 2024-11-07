@@ -22,7 +22,7 @@ The ORMGP groundwater monitoring network collects information from select locati
 * Till Plain settings where the alternating glacial-interglacial deposits laid down over the last approximately 125,000 years remain largely intact; and
 * The Lake Iroquois Plain situated along the north shore of Lake Ontario.
 
-The data collected from the various monitoring locations (Figure 2) are used to interpret the behaviour or response of the various hydrogeologic settings, and ultimately to build this knowledge into the regional flow system understanding.
+The data collected from the various monitoring locations (Figure 2) are used to interpret the behaviour of groundwater in the various hydrogeologic settings, and ultimately to build this knowledge into the regional flow system understanding.
 
 <br>
 
